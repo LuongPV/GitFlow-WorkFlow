@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 69,
+      "name": "james2",
+      "email": "damnn@haposoft.com"
+    },
+    {
+      "name": "pv oil",
+      "email": "dcm@gmail.com",
+      "id": 70
+    },
+    {
+      "name": "pv oil",
+      "email": "dcm@gmail.com",
+      "id": 71
+    },
+    {
+      "name": "pv oil",
+      "email": "dcm@gmail.com",
+      "id": 72
+    },
+    {
+      "id": 73
+    },
+    {
+      "id": 74
+    },
+    {
+      "name": "pv oil",
+      "email": "dcm@gmail.com",
+      "id": 75
+    },
+    {
+      "name": "pv oil",
+      "email": "dcm@gmail.com",
+      "id": 76
+    },
+    {
+      "id": 77
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "content": "fake REST API",
+      "user_id": 1
+    }
+  ],
+  "data69": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "content": "fake REST API",
+      "user_id": 1
+    }
+  ]
+}
