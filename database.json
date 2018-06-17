@@ -49,6 +49,7 @@
   ],
   "data": [
     {
+      "optimize": true,
       "id": 1,
       "title": "json-server",
       "content": "fake REST API",
