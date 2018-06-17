@@ -55,6 +55,7 @@
       "user_id": 1
     },
     {
+      "optimize": true,
       "id": 2,
       "title": "json-server",
       "content": "fake REST API",
